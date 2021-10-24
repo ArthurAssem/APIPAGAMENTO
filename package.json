@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/techtuxbr/guiapagamentos.git"
+    "url": "git+https://github.com/ArthurAssem/APIPAGAMENTO.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/techtuxbr/guiapagamentos/issues"
+    "url": "https://github.com/ArthurAssem/APIPAGAMENTO/issues"
   },
-  "homepage": "https://github.com/techtuxbr/guiapagamentos#readme"
+  "homepage": "https://github.com/ArthurAssem/APIPAGAMENTO#readme"
 }
